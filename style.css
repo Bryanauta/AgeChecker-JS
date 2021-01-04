@@ -1,0 +1,24 @@
+body{
+    background-color: cornflowerblue;
+    font: 18pt arial;
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+section{
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    border-radius: 30px;
+    padding: 10px
+}
+
+div{
+    text-align: center;
+}
